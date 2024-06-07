@@ -88,5 +88,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "blog"
+  },
+  {
+    "name": "media",
+    "description": "media",
+    "fieldId": "media",
+    "modelId": "blog",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
