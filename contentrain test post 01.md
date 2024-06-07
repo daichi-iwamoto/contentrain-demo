@@ -1,8 +1,8 @@
 ---
 ID: "d07816738e1c"
 createdAt: "2024-06-07T11:11:11.000Z"
-updatedAt: "2024-06-07T11:37:19.217Z"
-status: "changed"
+updatedAt: "2024-06-07T11:38:04.894Z"
+status: "publish"
 slug: "contentrain test post 01"
 scheduled: false
 path: ""
