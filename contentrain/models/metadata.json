@@ -1,0 +1,11 @@
+[
+  {
+    "name": "blog",
+    "description": "blog model",
+    "modelId": "blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
